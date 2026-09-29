@@ -45,7 +45,7 @@ We are actively expanding the architecture to include a localized **Vector Knowl
 
 ## 📖 Read the Paper
 The full manuscript detailing the architecture, empirical evaluations, and alignment with the CISA/NSA 2025 AI OT guidelines is available in this repository:
-* [📄 Read the Full Markdown Paper](paper.md)
+* [📄 Read the Full Markdown Paper]([paper.md](https://zenodo.org/records/20480414)
 
 ## 🤝 Citation
 If you use this architecture or reference our findings in your own research, please cite our preprint:
